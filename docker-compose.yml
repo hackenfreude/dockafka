@@ -1,0 +1,4 @@
+zookeeper:
+        build: zookeeper/
+        ports:
+                - "2181:2181" 
